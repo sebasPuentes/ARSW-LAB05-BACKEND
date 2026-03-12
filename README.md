@@ -21,7 +21,7 @@ mvn -version
 Clonar el repositorio
 
 ```
-git clone https://github.com/tu-usuario/ARSW-LAB05-BACKEND.git
+git clone https://github.com/sebasPuentes/ARSW-LAB05-BACKEND
 cd ARSW-LAB05-BACKEND
 ```
 
